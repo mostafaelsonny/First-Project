@@ -270,6 +270,12 @@ header .links:hover ul {
     }
 }
 
+@media(max-width:500px){
+    .services-content .text p {
+        margin-left: 15px;
+    }
+}
+
 .services-content .srv i {
     font-size: 35px;
     color: var(--main-color);
